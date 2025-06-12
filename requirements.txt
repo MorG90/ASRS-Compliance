@@ -1,5 +1,0 @@
-streamlit
-PyMuPDF
-matplotlib
-reportlab
-pandas
